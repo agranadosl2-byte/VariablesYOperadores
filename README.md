@@ -1,7 +1,3 @@
-"# Repositorio-de-prueba" 
-# Repositorio-Prueba
-# Repositorio-de-prueba
-# mi-primer-proyecto-progra1
 # Respuestas Teoricas
 # ¿Para qué se utilizan los operadores lógicos en programación?
 # Sirven para la toma de decisiones ya sea de verdadero o falso, permitiendo que el programa tome decisiones complejas.
